@@ -10,5 +10,5 @@ Included Topics:
 * Kernel Methods
 * Fully Connected Neural Networks
 
-* Machine_learning_refined sources: https://github.com/jermwatt/machine_learning_refined
-* mlrefined sources: https://github.com/Recon419A/mlrefined_libraries
+Machine_learning_refined sources: https://github.com/jermwatt/machine_learning_refined
+mlrefined sources: https://github.com/Recon419A/mlrefined_libraries
