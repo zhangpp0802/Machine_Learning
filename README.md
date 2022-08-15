@@ -9,3 +9,5 @@ Included Topics:
 * Feature Learning
 * Kernel Methods
 * Fully Connected Neural Networks
+
+* Machine_learning_refined sources: https://github.com/jermwatt/machine_learning_refined
